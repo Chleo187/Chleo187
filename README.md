@@ -1,16 +1,53 @@
-## Hi there 👋
-
-<!--
-**Chleo187/Chleo187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mes Réseaux Sociaux</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        h1 {
+            color: #0077b5;
+        }
+        .social-link {
+            display: block;
+            width: 80%;
+            margin: 10px auto;
+            padding: 12px;
+            background-color: #0077b5;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .social-link:hover {
+            background-color: #005580;
+        }
+        .container {
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Suis-moi sur mes réseaux !</h1>
+        <a href="https://www.tiktok.com/@chleo187?_r=1&_t=ZG-94i6G0NKqMi" class="social-link" target="_blank">tiktok</a>
+        <a href="https://www.tiktok.com/@chleo187_platineur?_r=1&_t=ZG-94i6KvYg3tJ" class="social-link" target="_blank">TikTok chaine secondaire</a>
+        <a href="https://www.youtube.com/@Chleo187_edit" class="social-link" target="_blank">youtube</a>
+        <a href="https://www.youtube.com/@Chleo187_platine class="social-link" target="_blank">youtube chaine secondaire</a>
+         <a href="https://psnprofiles.com/Chleo187 class="social-link" target="_blank">psn profiles</a>
+              <a href="https://www.psthc.fr/profil-psn-Chleo187.htm class="social-link" target="_blank">psthc</a>
+    </div>
+</body>
+</html>
