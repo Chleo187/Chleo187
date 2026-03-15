@@ -42,12 +42,12 @@
 <body>
     <div class="container">
         <h1>Suis-moi sur mes réseaux !</h1>
-        <a href="https://www.tiktok.com/@chleo187?_r=1&_t=ZG-94i6G0NKqMi" class="social-link" target="_blank">tiktok</a>
-        <a href="https://www.tiktok.com/@chleo187_platineur?_r=1&_t=ZG-94i6KvYg3tJ" class="social-link" target="_blank">TikTok chaine secondaire</a>
-        <a href="https://www.youtube.com/@Chleo187_edit" class="social-link" target="_blank">youtube</a>
-        <a href="https://www.youtube.com/@Chleo187_platine class="social-link" target="_blank">youtube chaine secondaire</a>
-         <a href="https://psnprofiles.com/Chleo187 class="social-link" target="_blank">psn profiles</a>
-              <a href="https://www.psthc.fr/profil-psn-Chleo187.htm class="social-link" target="_blank">psthc</a>
+        <a href="https://www.tiktok.com/@chleo187?_r=1&_t=ZG-94i6G0NKqMi" class="social-link" target="_blank">TikTok</a>
+        <a href="https://www.tiktok.com/@chleo187_platineur?_r=1&_t=ZG-94i6KvYg3tJ" class="social-link" target="_blank">TikTok chaîne secondaire</a>
+        <a href="https://www.youtube.com/@Chleo187_edit" class="social-link" target="_blank">YouTube</a>
+        <a href="https://www.youtube.com/@Chleo187_platine" class="social-link" target="_blank">YouTube chaîne secondaire</a>
+        <a href="https://psnprofiles.com/Chleo187" class="social-link" target="_blank">PSN Profiles</a>
+        <a href="https://www.psthc.fr/profil-psn-Chleo187.htm" class="social-link" target="_blank">PSTHC</a>
     </div>
 </body>
 </html>
